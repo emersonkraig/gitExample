@@ -1,3 +1,3 @@
+role,NetID,LastName,FirstName
 boss,ekraig,Kraig,Emerson
 employee,erstark,Stark,Eric
-role,NetID,LastName,FirstName
